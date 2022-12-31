@@ -1,2 +1,4 @@
-# rockpaperscissors
-Try to win or lose at Rock, Paper, Scissors!
+# Try to win or lose at Rock, Paper, Scissors!
+
+Video Preview:
+
